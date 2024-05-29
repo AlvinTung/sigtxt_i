@@ -3,6 +3,8 @@ My interpretation of the sigtxt program originally conceived by Allison Parrish 
 
 ![alt text](https://github.com/AlvinTung/sigtxt_i/blob/main/sigtxt_i.png?raw=true)
 
+Requires Python 3.7 or above
+
 To use: "python3 sigtxt_i.py" 
 
 Put source texts into files "s1" and "s2".
