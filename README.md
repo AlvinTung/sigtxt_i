@@ -3,7 +3,7 @@ My interpretation of the sigtxt program originally conceived by Allison Parrish 
 
 ![alt text](https://github.com/AlvinTung/sigtxt_i/blob/main/sigtxt_i.png?raw=true)
 
-Requires Python 3.7 or above
+Requires Python 3.7
 
 To use: "python3 sigtxt_i.py" 
 
