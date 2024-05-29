@@ -1,6 +1,8 @@
 # sigtxt_i
 My interpretation of the sigtxt program originally conceived by Allison Parrish and documented here: https://medium.com/dbrs-innovation-labs/semantic-arithmetic-ddae153ca849
 
+![alt text](https://github.com/AlvinTung/sigtxt_i/blob/main/sigtxt_i.png?raw=true)
+
 To use: "python3 sigtxt_i.py" 
 
 Put source texts into files "s1" and "s2".
