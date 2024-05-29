@@ -1,5 +1,5 @@
 # sigtxt_i
-My interpretation of the sigtxt program originally conceived by Allison Parrish and documented here: https://medium.com/dbrs-innovation-labs/semantic-arithmetic-ddae153ca849
+sigtxt_i applies image manipulation algorithms to text to manipulate them on a semantic level using word vectors and spacy. The original program is documented here: https://medium.com/dbrs-innovation-labs/semantic-arithmetic-ddae153ca849
 
 ![alt text](https://github.com/AlvinTung/sigtxt_i/blob/main/sigtxt_i.png?raw=true)
 
